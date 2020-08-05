@@ -1,0 +1,24 @@
+body{
+	background-color: white;
+}
+select {
+	background-color: #FF9F1C;
+	height: 50px;
+	width: 75px;
+	margin:4px;
+	margin-top: 12px;
+	font-size: 1em;
+	border-radius: 25px;
+	text-align: center;
+}
+.button {
+	background-color: #FF9F1C;
+	height: 50px;
+	width: 75px;
+	margin:4px;
+	margin-top: 12px;
+	font-size: 1em;
+	border-radius: 25px;
+	text-align: center;
+
+}
